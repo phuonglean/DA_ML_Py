@@ -15,4 +15,4 @@ We acknowledge the assumption that in each country, the logistics system is oper
 2. Step 2: Perform Exploratory Data Analysis
 3. Step 3: Feature analysis and selection
 4. Step 4: Build models to predict number of lead time days and/or whether orders are on-time delivery.
-5. Step 5: Solutions roposals
+5. Step 5: Solutions proposals
